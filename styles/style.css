@@ -38,3 +38,7 @@ img {
 .quote {
   color: red;
 }
+
+#mainquote {
+  border: 5px solid black;
+}
